@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil no Github🙋🏻‍♀️ 
 
 - atualmente sou estudante de computação
-- ando aprendendo javaScript e um pouco de html
+- ando aprendendo java pela alura
 - moro em São Paulo🏠
 - ela/dela❤
 ## contatos
